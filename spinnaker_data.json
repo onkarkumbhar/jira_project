@@ -1,0 +1,13 @@
+{
+  "results": [
+    {
+      "App_Name": "App1",
+      "image_tag": "2902o3ibjekdfla029",
+      "Status": "Validated",
+      "Spinnaker Application Name": "Spinnaker_App1",
+      "User Story Id": "TEST1-1",
+      "Control Type": "SOX",
+      "instance": "instance1.test.com"
+    }
+  ]
+}
