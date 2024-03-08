@@ -4,7 +4,7 @@
     "u_service_offering_link": "https://cisco.service-now.com/api/now/table/u_business_service_component/ec9338d3db8aa0d090b8a90b8a96194d",
     "u_service_offering_value": "ec9338d3db8aa0d090b8a90b8a96194d",
     "number": "APM00241059",
-    "name": "Distribution Dashboard",
+    "name": "Application 1",
     "u_purpose": null,
     "scrum_team": "Team1"
   },
@@ -12,7 +12,7 @@
     "u_service_offering_link": "https://cisco.service-now.com/api/now/table/u_business_service_component/ec9338d3db8aa0d090b8a90b8a96194d",
     "u_service_offering_value": "ec9338d3db8aa0d090b8a90b8a96194d",
     "number": "APM00241060",
-    "name": "ABC App Cloud ",
+    "name": "Application 2",
     "u_purpose": null,
     "scrum_team": "Team1"
   },
@@ -20,7 +20,7 @@
     "u_service_offering_link": "https://cisco.service-now.com/api/now/table/u_business_service_component/ec9338d3db8aa0d090b8a90b8a96194d",
     "u_service_offering_value": "ec9338d3db8aa0d090b8a90b8a96194d",
     "number": "APM00241061",
-    "name": "TCT",
+    "name": "Application 3",
     "u_purpose": "Non-Production",
     "scrum_team": "Team1"
   },
@@ -28,7 +28,7 @@
     "u_service_offering_link": "https://cisco.service-now.com/api/now/table/u_business_service_component/ec9338d3db8aa0d090b8a90b8a96194d",
     "u_service_offering_value": "ec9338d3db8aa0d090b8a90b8a96194d",
     "number": "APM00241062",
-    "name": "TCT",
+    "name": "Application 4",
     "u_purpose": null,
     "scrum_team": "Team1"
   },
@@ -36,7 +36,7 @@
     "u_service_offering_link": "https://cisco.service-now.com/api/now/table/u_business_service_component/ec9338d3db8aa0d090b8a90b8a96194d",
     "u_service_offering_value": "ec9338d3db8aa0d090b8a90b8a96194d",
     "number": "APM00241063",
-    "name": "OpenDNS",
+    "name": "Application 5",
     "u_purpose": "Non-Production",
     "scrum_team": "Team1"
   },
@@ -44,7 +44,7 @@
     "u_service_offering_link": "https://cisco.service-now.com/api/now/table/u_business_service_component/ec9338d3db8aa0d090b8a90b8a96194d",
     "u_service_offering_value": "ec9338d3db8aa0d090b8a90b8a96194d",
     "number": "APM00241064",
-    "name": "CRSS Service",
+    "name": "Application 6",
     "u_purpose": "Non-Production",
     "scrum_team": "Team1"
   },
@@ -52,7 +52,7 @@
     "u_service_offering_link": "https://cisco.service-now.com/api/now/table/u_business_service_component/2ad03e69db95c34063339c26db961900",
     "u_service_offering_value": "2ad03e69db95c34063339c26db961900",
     "number": "APM00241065",
-    "name": "ABC-CN-AKA",
+    "name": "Application 7",
     "u_purpose": null,
     "scrum_team": "Team2"
   },
@@ -60,7 +60,7 @@
     "u_service_offering_link": "https://cisco.service-now.com/api/now/table/u_business_service_component/2ad03e69db95c34063339c26db961900",
     "u_service_offering_value": "2ad03e69db95c34063339c26db961900",
     "number": "APM00241066",
-    "name": "Firewall Board",
+    "name": "Application 8",
     "u_purpose": "Non-Production",
     "scrum_team": "Team2"
   },
@@ -68,7 +68,7 @@
     "u_service_offering_link": "https://cisco.service-now.com/api/now/table/u_business_service_component/2ad03e69db95c34063339c26db961900",
     "u_service_offering_value": "2ad03e69db95c34063339c26db961900",
     "number": "APM00241067",
-    "name": "V on-Guard",
+    "name": "Application 9",
     "u_purpose": "Non-Production",
     "scrum_team": "Team2"
   },
@@ -76,7 +76,7 @@
     "u_service_offering_link": "https://cisco.service-now.com/api/now/table/u_business_service_component/0c1d8e711b20f0d09c6655fe6e4bcb14",
     "u_service_offering_value": "0c1d8e711b20f0d09c6655fe6e4bcb14",
     "number": "APM00241068",
-    "name": "Distribution Dashboard",
+    "name": "Application 10",
     "u_purpose": null,
     "scrum_team": "Team3"
   },
@@ -84,7 +84,7 @@
     "u_service_offering_link": "https://cisco.service-now.com/api/now/table/u_business_service_component/0c1d8e711b20f0d09c6655fe6e4bcb14",
     "u_service_offering_value": "0c1d8e711b20f0d09c6655fe6e4bcb14",
     "number": "APM00241069",
-    "name": "CRSS Service",
+    "name": "Application 11",
     "u_purpose": null,
     "scrum_team": "Team3"
   },
@@ -92,7 +92,7 @@
     "u_service_offering_link": "https://cisco.service-now.com/api/now/table/u_business_service_component/0c1d8e711b20f0d09c6655fe6e4bcb14",
     "u_service_offering_value": "0c1d8e711b20f0d09c6655fe6e4bcb14",
     "number": "APM00241070",
-    "name": "Master Database",
+    "name": "Application 12",
     "u_purpose": null,
     "scrum_team": "Team3"
   },
@@ -100,7 +100,7 @@
     "u_service_offering_link": "https://cisco.service-now.com/api/now/table/u_business_service_component/0c1d8e711b20f0d09c6655fe6e4bcb14",
     "u_service_offering_value": "0c1d8e711b20f0d09c6655fe6e4bcb14",
     "number": "APM00241071",
-    "name": "Ace",
+    "name": "Application 13",
     "u_purpose": "Non-Production",
     "scrum_team": "Team3"
   },
@@ -108,7 +108,7 @@
     "u_service_offering_link": "https://cisco.service-now.com/api/now/table/u_business_service_component/11f57a6fdbc1e7803e0d5678dc961900",
     "u_service_offering_value": "11f57a6fdbc1e7803e0d5678dc961900",
     "number": "APM00241072",
-    "name": "XYZ",
+    "name": "Application 14",
     "u_purpose": null,
     "scrum_team": "Team4"
   },
@@ -116,7 +116,7 @@
     "u_service_offering_link": "https://cisco.service-now.com/api/now/table/u_business_service_component/11f57a6fdbc1e7803e0d5678dc961900",
     "u_service_offering_value": "11f57a6fdbc1e7803e0d5678dc961900",
     "number": "APM00241073",
-    "name": "Trail 1",
+    "name": "Application 15",
     "u_purpose": "Non-Production",
     "scrum_team": "Team4"
   },
@@ -124,7 +124,7 @@
     "u_service_offering_link": "https://cisco.service-now.com/api/now/table/u_business_service_component/11f57a6fdbc1e7803e0d5678dc961900",
     "u_service_offering_value": "11f57a6fdbc1e7803e0d5678dc961900",
     "number": "APM00241074",
-    "name": "Trail 2",
+    "name": "Application 16",
     "u_purpose": null,
     "scrum_team": "Team4"
   },
@@ -132,7 +132,7 @@
     "u_service_offering_link": "https://cisco.service-now.com/api/now/table/u_business_service_component/11f57a6fdbc1e7803e0d5678dc961900",
     "u_service_offering_value": "11f57a6fdbc1e7803e0d5678dc961900",
     "number": "APM00241075",
-    "name": "Trail 3",
+    "name": "Application 17",
     "u_purpose": "Non-Production",
     "scrum_team": "Team4"
   },
@@ -140,7 +140,7 @@
     "u_service_offering_link": "https://cisco.service-now.com/api/now/table/u_business_service_component/11f57a6fdbc1e7803e0d5678dc961900",
     "u_service_offering_value": "11f57a6fdbc1e7803e0d5678dc961900",
     "number": "APM00241076",
-    "name": "Trail 4",
+    "name": "Application 18",
     "u_purpose": null,
     "scrum_team": "Team4"
   },
@@ -148,7 +148,7 @@
     "u_service_offering_link": "https://cisco.service-now.com/api/now/table/u_business_service_component/11f57a6fdbc1e7803e0d5678dc961900",
     "u_service_offering_value": "11f57a6fdbc1e7803e0d5678dc961900",
     "number": "APM00241077",
-    "name": "Trail 1",
+    "name": "Application 19",
     "u_purpose": "Non-Production",
     "scrum_team": "Team4"
   },
@@ -156,7 +156,7 @@
     "u_service_offering_link": "https://cisco.service-now.com/api/now/table/u_business_service_component/11f57a6fdbc1e7803e0d5678dc961900",
     "u_service_offering_value": "11f57a6fdbc1e7803e0d5678dc961900",
     "number": "APM00241078",
-    "name": "Master Database",
+    "name": "Application 20",
     "u_purpose": "Non-Production",
     "scrum_team": "Team4"
   },
@@ -164,7 +164,7 @@
     "u_service_offering_link": "https://cisco.service-now.com/api/now/table/u_business_service_component/11f57a6fdbc1e7803e0d5678dc961900",
     "u_service_offering_value": "11f57a6fdbc1e7803e0d5678dc961900",
     "number": "APM00241079",
-    "name": "Trial 5",
+    "name": "Application 21",
     "u_purpose": "Non-Production",
     "scrum_team": "Team4"
   },
@@ -172,7 +172,7 @@
     "u_service_offering_link": "https://cisco.service-now.com/api/now/table/u_business_service_component/11f57a6fdbc1e7803e0d5678dc961908",
     "u_service_offering_value": "11f57a6fdbc1e7803e0d5678dc961908",
     "number": "APM00241080",
-    "name": "Acc XYZ Environment",
+    "name": "Application 22",
     "u_purpose": "Non-Production",
     "scrum_team": "Team5"
   },
@@ -180,7 +180,7 @@
     "u_service_offering_link": "https://cisco.service-now.com/api/now/table/u_business_service_component/11f57a6fdbc1e7803e0d5678dc961908",
     "u_service_offering_value": "11f57a6fdbc1e7803e0d5678dc961908",
     "number": "APM00241081",
-    "name": "Trial 6",
+    "name": "Application 23",
     "u_purpose": null,
     "scrum_team": "Team5"
   },
@@ -188,7 +188,7 @@
     "u_service_offering_link": "https://cisco.service-now.com/api/now/table/u_business_service_component/11f57a6fdbc1e7803e0d5678dc961908",
     "u_service_offering_value": "11f57a6fdbc1e7803e0d5678dc961908",
     "number": "APM00241082",
-    "name": "Provisioning-service",
+    "name": "Application 24",
     "u_purpose": null,
     "scrum_team": "Team5"
   }
