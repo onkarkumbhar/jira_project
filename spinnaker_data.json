@@ -7,58 +7,9 @@
     "Control Type": "spinnaker89.abc.com",
     "Instance": "FSA",
     "Business Application Id": "a939u303zt53zc10a4905cu9ca461433",
+    "Scrum_Team": "Team1",
     "User Story Id": "EXP_Story1",
     "Number Of Test Cases Passed": 1
-  },
-  {
-    "App Name": "Application 2",
-    "Image tag": "6596bfd9b68aab65n96b50nc0669c6fbbn8b9dk9",
-    "Spinnaker Application Name": "txcd",
-    "Control Type": "spinnaker21.abc.com",
-    "Instance": "SOX",
-    "Business Application Id": "00946tf443a03z40a3z436z11153af95",
-    "User Story Id": "EXP_Story11",
-    "Number Of Test Cases Passed": 1
-  },
-  {
-    "App Name": "Application 2",
-    "Image tag": "6596bfd9b68aab65n96b50nc0669c6fbbn8b9dk9",
-    "Spinnaker Application Name": "txcd",
-    "Control Type": "spinnaker21.abc.com",
-    "Instance": "SOX",
-    "Business Application Id": "00946tf443a03z40a3z436z11153af95",
-    "User Story Id": "EXP_Story11",
-    "Number Of Test Cases Passed": 1
-  },
-  {
-    "App Name": "Application 2",
-    "Image tag": "895c89bn66d95fd5an9n89ncd8kn90n6c585kda6",
-    "Spinnaker Application Name": "txcd",
-    "Control Type": "spinnaker21.abc.com",
-    "Instance": "SOX",
-    "Business Application Id": "00946tf443a03z40a3z436z11153af95",
-    "User Story Id": "EXP_Story11",
-    "Number Of Test Cases Passed": 1
-  },
-  {
-    "App Name": "Application 2",
-    "Image tag": "99n9n8c0n8n9ck06df998ddk9adb0609n99f58c8",
-    "Spinnaker Application Name": "cd-txcd-test",
-    "Control Type": "spinnaker21.abc.com",
-    "Instance": "SOX",
-    "Business Application Id": "00946tf443a03z40a3z436z11153af95",
-    "User Story Id": "EXP_Story11",
-    "Number Of Test Cases Passed": 1
-  },
-  {
-    "App Name": "Application 3",
-    "Image tag": "n08f5f60n00fc0db509n9bf8a8c9n9999d6c6f9b",
-    "Spinnaker Application Name": "abcform",
-    "Control Type": "spinnaker89.abc.com",
-    "Instance": "SOX",
-    "Business Application Id": "ua3zu4t3ztftfuc36ff9f4551z461444",
-    "User Story Id": "EXP_Story5",
-    "Number Of Test Cases Passed": 4
   },
   {
     "App Name": "Application 7",
@@ -67,6 +18,7 @@
     "Control Type": "spinnaker89.abc.com",
     "Instance": "FSA",
     "Business Application Id": "a939u303zt53zc10a4905cu9ca461433",
+    "Scrum_Team": "Team2",
     "User Story Id": "EXP_Story2",
     "Number Of Test Cases Passed": 1
   },
@@ -77,6 +29,7 @@
     "Control Type": "spinnaker89.abc.com",
     "Instance": "FSA",
     "Business Application Id": "a939u303zt53zc10a4905cu9ca461433",
+    "Scrum_Team": "Team2",
     "User Story Id": "EXP_Story2",
     "Number Of Test Cases Passed": 1
   },
@@ -87,6 +40,7 @@
     "Control Type": "spinnaker89.abc.com",
     "Instance": "FSA",
     "Business Application Id": "a939u303zt53zc10a4905cu9ca461433",
+    "Scrum_Team": "Team2",
     "User Story Id": "EXP_Story2",
     "Number Of Test Cases Passed": 1
   },
@@ -97,7 +51,8 @@
     "Control Type": "spinnaker89.abc.com",
     "Instance": "FSA",
     "Business Application Id": "a939u303zt53zc10a4905cu9ca461433",
-    "User Story Id": "TEST3-1",
+    "Scrum_Team": "Team2",
+    "User Story Id": "EXP_Story3",
     "Number Of Test Cases Passed": 1
   },
   {
@@ -107,7 +62,8 @@
     "Control Type": "spinnaker89.abc.com",
     "Instance": "FSA",
     "Business Application Id": "a939u303zt53zc10a4905cu9ca461433",
-    "User Story Id": "-",
+    "Scrum_Team": "Team2",
+    "User Story Id": "EXP_Story3",
     "Number Of Test Cases Passed": 1
   },
   {
@@ -117,28 +73,9 @@
     "Control Type": "spinnaker89.abc.com",
     "Instance": "FSA",
     "Business Application Id": "a939u303zt53zc10a4905cu9ca461433",
-    "User Story Id": "-",
-    "Number Of Test Cases Passed": 1
-  },
-  {
-    "App Name": "Application 8",
-    "Image tag": "zkvd85nf005b9dk8cbnk9a5a88d9c0n668898k8fna6-Bld-6",
-    "Spinnaker Application Name": "asol-services",
-    "Control Type": "spinnaker521.abc.com",
-    "Instance": "SOX",
-    "Business Application Id": "zt14143tztft390c6ff9f4551z46141a",
-    "User Story Id": "TEST3-3",
-    "Number Of Test Cases Passed": 4
-  },
-  {
-    "App Name": "Application 10",
-    "Image tag": "zkv905n8c886958bn89k8ack9b0nkf80986d8bb9686-Bld-Spinnakkz-tkst-8",
-    "Spinnaker Application Name": "ssfla-sbp-provoke",
-    "Control Type": "spinnaker521.abc.com",
-    "Instance": "SOX",
-    "Business Application Id": "zf14143tztft390c6ff9f4551z461406",
+    "Scrum_Team": "Team2",
     "User Story Id": "EXP_Story3",
-    "Number Of Test Cases Passed": 10
+    "Number Of Test Cases Passed": 1
   },
   {
     "App Name": "Application 11",
@@ -147,6 +84,7 @@
     "Control Type": "spinnaker521.abc.com",
     "Instance": "SOX",
     "Business Application Id": "z993553fzttt390c6ff9f4551z461433",
+    "Scrum_Team": "Team3",
     "User Story Id": "EXP_Story6",
     "Number Of Test Cases Passed": 5
   },
@@ -157,6 +95,7 @@
     "Control Type": "spinnaker521.abc.com",
     "Instance": "SOX",
     "Business Application Id": "z993553fzttt390c6ff9f4551z461433",
+    "Scrum_Team": "Team3",
     "User Story Id": "EXP_Story6",
     "Number Of Test Cases Passed": 5
   },
@@ -167,6 +106,7 @@
     "Control Type": "spinnaker5.abc.com",
     "Instance": "SOX",
     "Business Application Id": "ff13113fzttt390c6ff9f4551z461403",
+    "Scrum_Team": "Team4",
     "User Story Id": "EXP_Story10",
     "Number Of Test Cases Passed": 1
   },
@@ -177,58 +117,9 @@
     "Control Type": "spinnaker89.abc.com",
     "Instance": "SOX",
     "Business Application Id": "59z341f3ztft390c6ff9f4551z46143f",
+    "Scrum_Team": "Team4",
     "User Story Id": "EXP_Story10",
     "Number Of Test Cases Passed": 43
-  },
-  {
-    "App Name": "Application 2",
-    "Image tag": "659a986689k8995fb9k08kcdn98cffn9k8nnd99a",
-    "Spinnaker Application Name": "txcd",
-    "Control Type": "spinnaker21.abc.com",
-    "Instance": "SOX",
-    "Business Application Id": "00946tf443a03z40a3z436z11153af95",
-    "User Story Id": "EXP_Story11",
-    "Number Of Test Cases Passed": 1
-  },
-  {
-    "App Name": "Application 3",
-    "Image tag": "696000088n88kak09k8ank9a8kb8dn5n9a9c9566",
-    "Spinnaker Application Name": "abcform",
-    "Control Type": "spinnaker89.abc.com",
-    "Instance": "SOX",
-    "Business Application Id": "ua3zu4t3ztftfuc36ff9f4551z461444",
-    "User Story Id": "EXP_Story5",
-    "Number Of Test Cases Passed": 4
-  },
-  {
-    "App Name": "Application 17",
-    "Image tag": "5nb9n59f9666n98anknf969bkna0995906bf5k9n",
-    "Spinnaker Application Name": "cpfgsbs",
-    "Control Type": "spinnaker78.abc.com",
-    "Instance": "SOX",
-    "Business Application Id": "t63u9cf3zt3ffuc36ff9f4551z461493",
-    "User Story Id": "EXP_Story10",
-    "Number Of Test Cases Passed": 2
-  },
-  {
-    "App Name": "Application 18",
-    "Image tag": "zkv6cn89n6a9d0fc00n9na66n85dd9ac8cf9ba8n568-Bld8-dkv",
-    "Spinnaker Application Name": "app6-njq-con",
-    "Control Type": "spinnaker78.abc.com",
-    "Instance": "FSA",
-    "Business Application Id": "5u431zt3ztft390c6ff9f4551z461440",
-    "User Story Id": "EXP_Story10",
-    "Number Of Test Cases Passed": 1
-  },
-  {
-    "App Name": "Application 18",
-    "Image tag": "zkv6cn89n6a9d0fc00n9na66n85dd9ac8cf9ba8n568-Bld8-dkv",
-    "Spinnaker Application Name": "app6-njq-con",
-    "Control Type": "spinnaker78.abc.com",
-    "Instance": "FSA",
-    "Business Application Id": "5u431zt3ztft390c6ff9f4551z461440",
-    "User Story Id": "EXP_Story10",
-    "Number Of Test Cases Passed": 1
   },
   {
     "App Name": "Application 23",
@@ -237,26 +128,7 @@
     "Control Type": "spinnaker521.abc.com",
     "Instance": "SOX",
     "Business Application Id": "41a449u0zt005f40u364f4551z4614aa",
-    "User Story Id": "EXP_Story8",
-    "Number Of Test Cases Passed": 2
-  },
-  {
-    "App Name": "Application 18",
-    "Image tag": "zkv6cn89n6a9d0fc00n9na66n85dd9ac8cf9ba8n568-Bld8-dkv",
-    "Spinnaker Application Name": "app6-njq-con",
-    "Control Type": "spinnaker78.abc.com",
-    "Instance": "FSA",
-    "Business Application Id": "5u431zt3ztft390c6ff9f4551z461440",
-    "User Story Id": "EXP_Story10",
-    "Number Of Test Cases Passed": 1
-  },
-  {
-    "App Name": "Application 24",
-    "Image tag": "099k96nk6nb86060k900dfnfc9dd0d69n60f95cn",
-    "Spinnaker Application Name": "app8ber4o-dg-vg",
-    "Control Type": "spinnaker89.abc.com",
-    "Instance": "SOX",
-    "Business Application Id": "cu43zztfzttt390c6ff9f4551z461434",
+    "Scrum_Team": "Team5",
     "User Story Id": "EXP_Story8",
     "Number Of Test Cases Passed": 2
   },
@@ -267,6 +139,7 @@
     "Control Type": "spinnaker521.abc.com",
     "Instance": "SOX",
     "Business Application Id": "41a449u0zt005f40u364f4551z4614aa",
+    "Scrum_Team": "Team5",
     "User Story Id": "EXP_Story7",
     "Number Of Test Cases Passed": 22
   },
@@ -277,17 +150,8 @@
     "Control Type": "spinnaker89.abc.com",
     "Instance": "SOX",
     "Business Application Id": "cu43zztfzttt390c6ff9f4551z461434",
+    "Scrum_Team": "Team5",
     "User Story Id": "EXP_Story8",
-    "Number Of Test Cases Passed": 2
-  },
-  {
-    "App Name": "Application 24",
-    "Image tag": "8f9698n8ca9a5b969c50096fcccn5a6ak5bancn5",
-    "Spinnaker Application Name": "app8ber4o-ng-ui",
-    "Control Type": "spinnaker89.abc.com",
-    "Instance": "SOX",
-    "Business Application Id": "cu43zztfzttt390c6ff9f4551z461434",
-    "User Story Id": "EXP_Story7",
     "Number Of Test Cases Passed": 2
   }
   ]
