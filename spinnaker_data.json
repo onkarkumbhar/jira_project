@@ -1,157 +1,58 @@
 {
   "results": [
     {
-    "App Name": "Application 1",
-    "Image tag": "808k8ca66ndbk9f95dkc6nacn0kd8f0ad6nn6b86",
-    "Spinnaker Application Name": "cbnk-dashboard",
-    "Control Type": "spinnaker89.abc.com",
-    "Instance": "FSA",
-    "Business Application Id": "a939u303zt53zc10a4905cu9ca461433",
-    "Scrum_Team": "Team1",
-    "User Story Id": "EXP_Story1",
-    "Number Of Test Cases Passed": 1
-  },
-  {
-    "App Name": "Application 7",
-    "Image tag": "8aak659898ak6b6f90998d96f5k86n598560kcb5",
-    "Spinnaker Application Name": "cb-app-integration",
-    "Control Type": "spinnaker89.abc.com",
-    "Instance": "FSA",
-    "Business Application Id": "a939u303zt53zc10a4905cu9ca461433",
-    "Scrum_Team": "Team2",
-    "User Story Id": "EXP_Story2",
-    "Number Of Test Cases Passed": 1
-  },
-  {
-    "App Name": "Application 7",
-    "Image tag": "n5nacd8kbb89cnc0k98d6985fddnkkkn5696k006",
-    "Spinnaker Application Name": "cb-reports-int-app",
-    "Control Type": "spinnaker89.abc.com",
-    "Instance": "FSA",
-    "Business Application Id": "a939u303zt53zc10a4905cu9ca461433",
-    "Scrum_Team": "Team2",
-    "User Story Id": "EXP_Story2",
-    "Number Of Test Cases Passed": 1
-  },
-  {
-    "App Name": "Application 7",
-    "Image tag": "606n850696069c9n099n66k8n66n066d9696b09n",
-    "Spinnaker Application Name": "cbm-router-app",
-    "Control Type": "spinnaker89.abc.com",
-    "Instance": "FSA",
-    "Business Application Id": "a939u303zt53zc10a4905cu9ca461433",
-    "Scrum_Team": "Team2",
-    "User Story Id": "EXP_Story2",
-    "Number Of Test Cases Passed": 1
-  },
-  {
-    "App Name": "Application 7",
+    "App Name": "Application 2, Application 3, Application 4",
     "Image tag": "88ak8k6ab8dn9a6ack68nd5ffdfn66669968cd68",
     "Spinnaker Application Name": "cb-app-integration",
     "Control Type": "spinnaker89.abc.com",
     "Instance": "FSA",
-    "Business Application Id": "a939u303zt53zc10a4905cu9ca461433",
-    "Scrum_Team": "Team2",
+    "Business Application Id": "a939u303zt53zc10a4905cu9ca461433, a939u303zt53zc10a4905cu9ca461438, a939u303zt53zc10a4905cu9ca461439",
+    "Scrum_Team": "Team1",
     "User Story Id": "EXP_Story3",
     "Number Of Test Cases Passed": 1
   },
   {
-    "App Name": "Application 7",
+    "App Name": "Application 8",
     "Image tag": "886kdcn8bn89686c6c6ka6c95n6b98688f6kf6k8",
     "Spinnaker Application Name": "cbm-abc-xyz",
     "Control Type": "spinnaker89.abc.com",
     "Instance": "FSA",
-    "Business Application Id": "a939u303zt53zc10a4905cu9ca461433",
+    "Business Application Id": "a939u303zt53zc10a4905cu9ca461434",
     "Scrum_Team": "Team2",
-    "User Story Id": "EXP_Story3",
+    "User Story Id": "EXP_Story6",
     "Number Of Test Cases Passed": 1
   },
   {
-    "App Name": "Application 7",
+    "App Name": "Application 10, Application 11",
     "Image tag": "b0589dn6fk9fknn9bn58c0c09865bnn8f98b8bnn",
     "Spinnaker Application Name": "cbm-abc-xyz",
     "Control Type": "spinnaker89.abc.com",
     "Instance": "FSA",
-    "Business Application Id": "a939u303zt53zc10a4905cu9ca461433",
-    "Scrum_Team": "Team2",
-    "User Story Id": "EXP_Story3",
-    "Number Of Test Cases Passed": 1
+    "Business Application Id": "a939u303zt53zc10a4905cu9ca461435, a939u303zt53zc10a4905cu9ca461440",
+    "Scrum_Team": "Team3",
+    "User Story Id": "EXP_Story6",
+    "Number Of Test Cases Passed": 4
   },
   {
-    "App Name": "Application 11",
-    "Image tag": null,
+    "App Name": "Application 16, Application 17, Application 18, Application 19",
+    "Image tag": "808k8ca66ndbk9f95dkc6nacn0kd8f0ad6nn6b86",
     "Spinnaker Application Name": "eem-xyz-abc",
     "Control Type": "spinnaker521.abc.com",
     "Instance": "SOX",
-    "Business Application Id": "z993553fzttt390c6ff9f4551z461433",
-    "Scrum_Team": "Team3",
-    "User Story Id": "EXP_Story6",
-    "Number Of Test Cases Passed": 5
-  },
-  {
-    "App Name": "Application 11",
-    "Image tag": null,
-    "Spinnaker Application Name": "proxy-ios-eem",
-    "Control Type": "spinnaker521.abc.com",
-    "Instance": "SOX",
-    "Business Application Id": "z993553fzttt390c6ff9f4551z461433",
-    "Scrum_Team": "Team3",
-    "User Story Id": "EXP_Story6",
-    "Number Of Test Cases Passed": 5
-  },
-  {
-    "App Name": "Application 15",
-    "Image tag": null,
-    "Spinnaker Application Name": "Application 5ps-zip",
-    "Control Type": "spinnaker5.abc.com",
-    "Instance": "SOX",
-    "Business Application Id": "ff13113fzttt390c6ff9f4551z461403",
+    "Business Application Id": "z993553fzttt390c6ff9f4551z461436, a939u303zt53zc10a4905cu9ca461441, a939u303zt53zc10a4905cu9ca461442, a939u303zt53zc10a4905cu9ca461443",
     "Scrum_Team": "Team4",
     "User Story Id": "EXP_Story10",
-    "Number Of Test Cases Passed": 1
-  },
-  {
-    "App Name": "Application 16",
-    "Image tag": null,
-    "Spinnaker Application Name": "app3",
-    "Control Type": "spinnaker89.abc.com",
-    "Instance": "SOX",
-    "Business Application Id": "59z341f3ztft390c6ff9f4551z46143f",
-    "Scrum_Team": "Team4",
-    "User Story Id": "EXP_Story10",
-    "Number Of Test Cases Passed": 43
-  },
-  {
-    "App Name": "Application 23",
-    "Image tag": "5d6f06can89c9n96nn8fc56nbnk9d880dn56nc6n",
-    "Spinnaker Application Name": "app7-avg-tent-qad-container",
-    "Control Type": "spinnaker521.abc.com",
-    "Instance": "SOX",
-    "Business Application Id": "41a449u0zt005f40u364f4551z4614aa",
-    "Scrum_Team": "Team5",
-    "User Story Id": "EXP_Story8",
-    "Number Of Test Cases Passed": 2
-  },
-  {
-    "App Name": "Application 23",
-    "Image tag": "dfnbkna9dn8k6d96cnka99n9f9k9nf90a6659nn6",
-    "Spinnaker Application Name": "app7service-hold-nyz-container",
-    "Control Type": "spinnaker521.abc.com",
-    "Instance": "SOX",
-    "Business Application Id": "41a449u0zt005f40u364f4551z4614aa",
-    "Scrum_Team": "Team5",
-    "User Story Id": "EXP_Story7",
-    "Number Of Test Cases Passed": 22
+    "Number Of Test Cases Passed": 5
   },
   {
     "App Name": "Application 24",
-    "Image tag": "ff9aa069dnb98bbdd8ffn0f98d9nd9k598d859kc",
-    "Spinnaker Application Name": "app8ber4o-dg-vg",
-    "Control Type": "spinnaker89.abc.com",
+    "Image tag": "8aak659898ak6b6f90998d96f5k86n598560kcb5",
+    "Spinnaker Application Name": "proxy-ios-eem",
+    "Control Type": "spinnaker521.abc.com",
     "Instance": "SOX",
-    "Business Application Id": "cu43zztfzttt390c6ff9f4551z461434",
+    "Business Application Id": "z993553fzttt390c6ff9f4551z461437",
     "Scrum_Team": "Team5",
-    "User Story Id": "EXP_Story8",
+    "User Story Id": "EXP_Story10",
     "Number Of Test Cases Passed": 2
   }
   ]
